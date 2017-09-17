@@ -12,12 +12,6 @@ Limitations:
 - Less fancy animation when you win.
 - The determination of which stack you drag to is more relaxed.
 
-Apology:
-
-I'm not much of a card player, so my terminology in these comments may
-at times be a little unusual.  If you have suggestions, please let me
-know!
-
 """
 
 # Imports
